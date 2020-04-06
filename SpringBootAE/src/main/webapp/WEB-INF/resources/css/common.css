@@ -1,0 +1,13 @@
+body {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #eee;
+}
+
+.arithmetic-exp{
+    color: darkgreen;
+}
+
+.has-error {
+    color: red
+}
